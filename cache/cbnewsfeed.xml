@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+	<channel>
+		<title>News</title>
+		<description><![CDATA[]]></description>
+		<link>https://www.joomlapolis.com/news</link>
+		<lastBuildDate>Fri, 26 Nov 2021 00:14:23 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://www.joomlapolis.com/news?format=feed&amp;type=rss"/>
+		<language>en-gb</language>
+		<item>
+			<title>Joomla 4.0.4 and Joomla 3.10.3 are here!</title>
+			<link>https://www.joomlapolis.com/news/18958-joomla-4-0-4-and-joomla-3-10-3-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18958-joomla-4-0-4-and-joomla-3-10-3-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5849-joomla-4-0-4-and-joomla-3-10-3-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202111/J404-J3103-releases_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5849-joomla-4-0-4-and-joomla-3-10-3-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4.04 and 3.10.3 are here</a></p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4.0.4</strong> and <strong>Joomla 3.10.3</strong> - both are considered as bug fixes releases also containing some improvements.<strong><br /></strong></p>
+<p><strong>Joomla 4.0.4</strong> addresses several bugs, including:</p>
+<ul>
+<li>Bootstrap Upgrade to 5.1.2</li>
+<li>Major restructure to the updater code base</li>
+<li>Fix TinyMCE templates not loading in certain OS’s (e.g. Alpine Linux)</li>
+<li>Tags created date changed when the server wasn’t in a UTC timezone</li>
+</ul>
+<p>Github has a <a href="https://github.com/joomla/joomla-cms/milestone/77?closed=1" target="_blank" rel="noopener noreferrer">full list of bug fixes for Joomla 4.0.4</a>.</p>
+<p><strong>Joomla 3.10.3</strong> addresses several bugs, including:</p>
+<ul>
+<li>Fix an calendar error with IE11</li>
+<li>Update the cacert file</li>
+<li>Improve the loading of tags on the contacts component</li>
+</ul>
+<p>Github has a <a href="https://github.com/joomla/joomla-cms/milestone/76?closed=1" target="_blank" rel="noopener noreferrer">full list of bug fixes for Joomla 3.10.3</a>.</p>
+<p>Reminder: Please upgrade any Joomla 3.x installation to 3.10 in preparation of upcoming CB 2.7 release.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6.4</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install and run just fine on both environments</strong>.</p>
+<p>You can learn more about these new releases by reading the <a href="https://www.joomla.org/announcements/release-news/5849-joomla-4-0-4-and-joomla-3-10-3-are-here.html" target="_blank" rel="noopener noreferrer">Joomla 4.0.4/3.10.3</a> announcement.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 10 Nov 2021 00:03:59 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.6.4 Release!</title>
+			<link>https://www.joomlapolis.com/news/18957-community-builder-2-6-4-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18957-community-builder-2-6-4-release</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/products/cb/logo.svg" alt="Community Builder logo" width="820" height="322" /></p>
+<p style="text-align: center;"><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.4</a> can be freely <a href="https://www.joomlapolis.com/downloads/free" rel="alternate">downloaded</a> by all registered members</p>
+<p style="text-align: center;"> </p>
+<p>We just released <a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.4</a>, with <strong>8 improvements</strong>. CB 2.6.4 is compatible with <strong>Joomla 4.0 </strong>and<strong> Joomla 3.10.</strong></p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">CB 2.6.4</a> <strong>improves privacy in the integrated private messaging system (PMS) and for the IP address logging</strong>.</p>
+<p>Following feedback from users on the CB 2.6.3 release with newly introduced PMS system <strong>message reporting</strong> function we have reviewed and improved private messages management in the administration area.</p>
+<p>Super-Users can now enable private message management in administration backend (disabled by default) and set Joomla access permissions for situations that require this (restricted by default to Super-Users). All message management accesses are logged using the Joomla log. This cannot be turned off.</p>
+<p>The second important privacy improvement is the optional anonymized logging of IP addresses that can be turned on as required.</p>
+<p>Details can be found in the <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=194" target="_blank" rel="noopener noreferrer">full CB 2.6.4 changelog</a>.</p>
+<p><strong>Community Builder 2.6.4</strong> is a highly recommended upgrade for all CB sites on Joomla 3.x and 4.0.</p>
+<p>Unless you are just upgrading from 2.6.1, 2.6.2 or 2.6.3, as always, you should <strong>first test on a cloned environment</strong> before upgrading your production site.</p>
+<p>Our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo website</a> has already been updated to Community Builder 2.6.4, so you can see it in action along will all our Joomlapolis add-ons.</p>
+<h3>Keep your hosting and Joomla up to date for next Community Builder 2.7!</h3>
+<p>Our next planed release, Community Builder 2.7, will be released very soon. As already announced in <a href="https://www.joomlapolis.com/news/18931-community-builder-2-6-release">CB 2.6.0</a>, <a href="https://www.joomlapolis.com/news/18947-community-builder-2-6-1-release">CB 2.6.1</a>, <a href="https://www.joomlapolis.com/news/18949-community-builder-2-6-2-release">CB 2.6.2</a> and <a href="https://www.joomlapolis.com/news/18953-community-builder-2-6-3-release">CB 2.6.3</a> news, <strong>CB 2.7 will require</strong> <strong>PHP 7.4+</strong> and <strong>MySql 5.6+.</strong> The upgrade/install process will check these requirements.</p>
+<p>As Joomla 3.10 is now the only maintained 3.x series and a simple one-click backwards compatible upgrade from Joomla 3.9.x, we are revisiting our Joomla requirement for next <strong>Community Builder 2.7</strong> to <strong>Joomla 3.10</strong> (up from now unmaintained 3.9 series 3.9.0, released 3 years ago).</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 02 Nov 2021 22:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.6.3 Release!</title>
+			<link>https://www.joomlapolis.com/news/18953-community-builder-2-6-3-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18953-community-builder-2-6-3-release</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/products/cb/logo.svg" alt="Community Builder logo" width="820" height="322" /></p>
+<p style="text-align: center;"><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.3</a> can be freely <a href="https://www.joomlapolis.com/downloads/free" rel="alternate">downloaded</a> by all registered members</p>
+<p style="text-align: center;"> </p>
+<p>We just released <a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.3</a>, with <strong>two</strong><strong> improvements</strong> and <strong>9 fixes</strong>, mainly for all discovered and known compatibility issues for <strong>Joomla 4.0 </strong>while<strong> keeping Joomla 3.10 compatibility.</strong></p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">CB 2.6.3</a> contains <strong>7 minor compatibility fixes for Joomla 4.0</strong> and 2 minor bug fixes, and has <strong>2 major improvements to the integrated private messaging system (PMS)</strong>.</p>
+<p>The PMS system now has a <strong>message reporting</strong> function and an important <strong>privacy </strong>improvement. Users can now report messages to moderators and Super-administrators can now only see system messages and messages to all users in the Joomla administration.</p>
+<p>Details can be found in the <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=189" target="_blank" rel="noopener noreferrer">full CB 2.6.3 changelog</a>.</p>
+<p><strong>Community Builder 2.6.3</strong> is a highly recommended upgrade for all CB sites on Joomla 3.x and 4.0.</p>
+<p>Unless you are just upgrading from 2.6.1 or 2.6.2, as always, you should <strong>first test on a cloned environment</strong> before upgrading your production site.</p>
+<p>Our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo website</a> has already been updated to Community Builder 2.6.3, so you can see it in action along will all our Joomlapolis add-ons.</p>
+<h3>Keep your hosting and Joomla up to date for next Community Builder 2.7!</h3>
+<p>Our next planed release, Community Builder 2.7, will be released soon. As already announced in <a href="https://www.joomlapolis.com/news/18931-community-builder-2-6-release">CB 2.6.0</a>, <a href="https://www.joomlapolis.com/news/18947-community-builder-2-6-1-release">CB 2.6.1</a> and <a href="https://www.joomlapolis.com/news/18949-community-builder-2-6-2-release">CB 2.6.2</a> news, <strong>CB 2.7 will require</strong> <strong>PHP 7.4+</strong> and <strong>MySql 5.6+.</strong> The upgrade/install process will check these requirements.</p>
+<p>As Joomla 3.10 is now the only maintained 3.x series and a simple one-click backwards compatible upgrade from Joomla 3.9.x, we are revisiting our Joomla requirement for next <strong>Community Builder 2.7</strong> to <strong>Joomla 3.10</strong> (up from now unmaintained 3.9 series 3.9.0, released 3 years ago).</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 28 Sep 2021 11:52:12 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4.0.3 and Joomla 3.10.2 are here!</title>
+			<link>https://www.joomlapolis.com/news/18952-joomla-4-0-3-and-joomla-3-10-2-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18952-joomla-4-0-3-and-joomla-3-10-2-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5848-joomla-4-0-3-and-joomla-3-10-2-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202109/joomla-403-3102_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5848-joomla-4-0-3-and-joomla-3-10-2-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4.03 and 3.10.2 are here</a></p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4.0.3</strong> and <strong>Joomla 3.10.2</strong> - both are considered as bug fixes releases.<strong><br /></strong></p>
+<p><strong>Joomla 4.0.3</strong> addresses several bugs, including:</p>
+<ul>
+<li>Transitions in workflows are now translatable</li>
+<li>Google Fonts are now loaded with higher priority in Cassiopeia</li>
+<li>Improved Error Handling in the LDAP Plugin</li>
+</ul>
+<p>Github has a <a href="https://github.com/joomla/joomla-cms/milestone/75?closed=1" target="_blank" rel="noopener noreferrer">full list of bug fixes for Joomla 4.0.3</a>.</p>
+<p><strong>Joomla 3.10.2</strong> addresses several bugs, including:</p>
+<ul>
+<li>Improve texts that are shown when there is a standalone update for the Joomla Update Component</li>
+<li>Improvements for the pre upgrade checker</li>
+</ul>
+<p>Github has a <a href="https://github.com/joomla/joomla-cms/milestone/73?closed=1" target="_blank" rel="noopener noreferrer">full list of bug fixes for Joomla 3.10.2</a>.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6.2</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install and run just fine on both environments</strong>.</p>
+<p>You can learn more about these new releases by reading the  <a href="https://www.joomla.org/announcements/release-news/5848-joomla-4-0-3-and-joomla-3-10-2-are-here.html" target="_blank" rel="noopener noreferrer">Joomla 4.0.3/3.10.2</a> announcement.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 14 Sep 2021 22:22:09 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4.0.1/4.0.2 and Joomla 3.10.1 are here!</title>
+			<link>https://www.joomlapolis.com/news/18951-joomla-4-01-4-02-and-joomla-3-10-1-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18951-joomla-4-01-4-02-and-joomla-3-10-1-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202109/402-3101.jpg" alt="" /></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5846-joomla-4-0-1-and-joomla-3-10-1-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4.01/4.02 3.10.1 are here</a></p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4.0.1 (and a quick 4.0.2)</strong> and <strong>Joomla 3.10.1</strong>.<strong><br /></strong></p>
+<p><strong>Joomla 4.0.1</strong> is a <strong>security release for Joomla 4.0.0</strong> and has been quickly superseded by the <a href="https://www.joomla.org/announcements/release-news/5847-joomla-4-0-2-bug-fix.html" target="_blank" rel="noopener noreferrer">Joomla 4.0.2 bug fix release</a> fixing a minor bug in the Joomla updater component of Joomla 4.0.1.</p>
+<p>Joomla 4.0.2 is an easy maintenance upgrade for Joomla 4.0.0 and 4.0.1, If you have already updated to 4.0.1, during the normal upgrade to 4.0.2 you will be invited to upgrade first the Joomla <a href="https://downloads.joomla.org/cms/joomla4/4-0-2/com_joomlaupdate-4.0.2.zip">Update Component</a> to fix the 4.0.1 updater issue before you can update to 4.0.2. The process is very well guided and only a couple of extra clicks. You can find more details in the Joomla documentation: <a href="https://docs.joomla.org/Special:MyLanguage/J4.x:Update_from_4.0.1_to_4.0.2">Update from 4.0.1 to 4.0.2</a>.</p>
+<p>Joomla 4.0.1 addresses several bugs, including a<strong> "High Severity - Moderate Impact</strong> - Insufficient access control for com_media deletion endpoint (<strong>affecting only Joomla 4.0.0</strong>) bug".</p>
+<p>Joomla 3.10.1 is a maintenance upgrade for Joomla 3.9.28 and Joomla 3.10.0.</p>
+<p>Finally, please <strong>do not upgrade from Joomla 3.x to Joomla 4.0.x before reading</strong> our article <a href="https://www.joomlapolis.com/news/18948-joomla-4-a-cms-with-a-great-future">Joomla 4 - a CMS with a great future!</a></p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6.2</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install and run just fine on both environments</strong>.</p>
+<p>You can learn more about these new releases by reading the <a href="https://www.joomla.org/announcements/release-news/5846-joomla-4-0-1-and-joomla-3-10-1-are-here.html" target="_blank" rel="noopener noreferrer">Joomla 4.0.1/3.10.1</a> and <a href="https://www.joomla.org/announcements/release-news/5847-joomla-4-0-2-bug-fix.html" target="_blank" rel="noopener noreferrer">Joomla 4.0.2</a> announcements.</p>]]></description>
+			<category>News</category>
+			<pubDate>Sun, 05 Sep 2021 21:01:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4 - a CMS with a great future!</title>
+			<link>https://www.joomlapolis.com/news/18948-joomla-4-a-cms-with-a-great-future</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18948-joomla-4-a-cms-with-a-great-future</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5845-joomla-4-0-and-joomla-3-10-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202108/J4-stable_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5845-joomla-4-0-and-joomla-3-10-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4 and 3.10 released!</a></p>
+<p style="text-align: center;"> <em><strong><br /></strong></em><span style="background-color: #ffff99;"> <strong>Important: </strong>You can upgrade your <strong>CB 2.6.2</strong> site to Joomla <strong>3.10</strong> as usual (<strong>backup first</strong> as usual). <br />But<strong> do not upgrade to Joomla 4.0 before reading this until the end.</strong></span></p>
+<p><strong>Joomla 4 stable</strong> and <strong>Joomla 3.10</strong> have been released!</p>
+<p>August 17th was a <strong>major milestone</strong> for the Joomla community - much more than just a <strong>16th birthday</strong>!<strong><br /></strong></p>
+<p>A full <strong>nine years in the making</strong>, Joomla 4 looks like it's got what it takes to take the Joomla CMS and its community to <strong>new levels of greatness</strong>.</p>
+<p>First off - let's just state for the record: <strong>Community Builder 2.6.2 and all our Joomlapolis add-ons are Joomla 4 ready</strong> - our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo site</a> has already been upgraded to CB 2.6.2 and Joomla 3.10.</p>
+<p>You can also learn more about these new releases by <a href="https://www.joomla.org/announcements/release-news/5843-birthday-present-announcement-joomla-4-stable-17th-august.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla announcement</a>.</p>
+<h3>The main benefits / new features</h3>
+<p>From an <em><strong>end user perspective</strong></em> the Joomla 4 tagline benefits / new features are:</p>
+<ul>
+<li><strong>Joomla4SEO</strong> - Search Engine Optimization built into the page and included in the core code - no need for extra extensions</li>
+<li><strong>Joomla4Design</strong> - slick new administrator user interface gives clean and slick access to content editing and website page layouts</li>
+<li><strong>Joomla4Speed</strong> - increased performance</li>
+<li><strong>Joomla4Search</strong> - built-in search engine for locating content</li>
+<li><strong>Joomla4Workflows</strong> - content creation and publishing workflows</li>
+<li><strong>Joomla4Accessibility</strong> - best in class accessibility - layout, contrast, and infrastructure all have built-in accessibility (WCAG 2.1)</li>
+<li><strong>Joomla4Security</strong> - well written, state-of-the-art code helps keep maximize security and keep hackers out</li>
+<li><strong>Joomla4Emails</strong> - customizable email templates for notification events generated by the CMS</li>
+<li><strong>Joomla4Multilingual</strong> - built-in support for multi-language content and websites and a huge list of already supported language translations</li>
+</ul>
+<p>There are many more benefits included (mobile ready, content editor<em> with local menus and drag-and-drop images</em>, tags, etc.).</p>
+<h3>What's in for the Future</h3>
+<p>We are excited to see that <strong>new Joomla 4.x features-releases are now planned every 6 months</strong>, with exciting new features and improvements in their final stages, most will be ready for inclusion in future Joomla 4.1 and 4.2 releases. We are seeing Joomla getting into a <strong>new innovation cycle</strong>.</p>
+<h3>What's in it for Extension Developers</h3>
+<p>If you are reading this article you are most likely using <strong>Community Builder</strong> and possibly some related add-ons (<strong>thank you!</strong>).</p>
+<p>The power of Joomla has traditionally been its third-party developers. These skilled individuals or companies have been bridging the gap in terms of features needed for specific use cases versus what the CMS itself can provide out of the box. Let's face it - no CMS can (nor should it really) provide every imaginable feature website designers need. That is why the CMS itself provides a <strong>rich API environment</strong> - to enable these talented third-party teams to quickly provide extra functionality - <strong>quickly</strong> and <strong>securely</strong>.</p>
+<p>The Joomla project has provided a pseudo marketplace where third-party teams can list their code offerings in an organized and community driven feedback environment - the <a href="https://extensions.joomla.org/extension/community-builder/" target="_blank" rel="noopener noreferrer">Joomla! Extensions Directory</a>. Joomla, of course is free, but extension take time and effort to build and maintain (trust us on this - we have been doing this for almost 20 years - since the pre-Joomla Mambo CMS days). These third-party developers make their living / recoup their expenses by either charging a fee for people to get their extension or when people ask for support. As the demand for extensions and support increases, the number of third-party developers and new extensions increases also.</p>
+<p>Joomla 4 is expected to increase the number of Joomla websites designed and this should have a very positive impact on the third-party developer community. According to Google, Joomla searches were <strong>up over 20%</strong> last week alone!</p>
+<p>Yes, the hype regarding the new slick Joomla 4 environment will give third-party developers a marketing boost, but that's not all.</p>
+<p>The modern Joomla codeset and development environment will attract more third-party developers. Joomla has provided some really great tools to help developers. The Joomla 4.0 now has the framework that will take it forward. It's generalized use of clean software patterns, such as dependency injection, webservices, workflows, object-oriented design with fully namespaced classes sets Joomla 4 clearly years ahead of most other popular CMS platforms. The minimum PHP version jumps from PHP 5.3 to 7.2, with support for PHP 8.x+ series, using modern programing language structures. Additionally, Joomla 4 uses selected parts of many trending libraries, such as Composer, Symfony, Doctrine, Bootstrap 5, modern native Javascript and deprecates older libraries like JQuery. This sounds like great music and will be appealing and fun to use for many web developers.</p>
+<h3>Let's recap</h3>
+<p>Joomla 4 is for many reasons a major milestone in the still very young Joomla roadmap. The number of new built-in features and functionality on one hand and the new code set on the other should propel the Joomla community (users and developers) forward. Time will tell of course, but the roadmap for <a href="https://github.com/joomla-projects/" target="_blank" rel="noopener noreferrer">Joomla 4.1 and 4.2</a> looks very promising.</p>
+<h3>Planing the Joomla 4 upgrade<em><br /></em></h3>
+<p>The release of Joomla 3.10 and 4.0 ends the maintenance cycle of Joomla 3.9, released almost 3 years ago. Joomla 3.9.x to 3.10.x is a minor upgrade and 3.10 will be maintained for 24 months, so there no rush to upgrade from 3.10 to 4.0. <strong>We recommend </strong>upgrading Joomla to latest<strong> 3.10</strong> and <strong>CB</strong> to <a href="https://www.joomlapolis.com/news/18949-community-builder-2-6-2-release"><b>latest 2.6.2 compatibility release</b></a> (<strong>backup first</strong> as usual).</p>
+<p>The upgrade from Joomla 3.10 to 4.0 is an in-place mini-migration that requires at least <strong>CB 2.6.2</strong>, but also <strong>planing</strong>, <strong>testing on a clone</strong>, and a <strong>tested </strong><strong>backup before upgrading</strong>. This upgrade to 4.0 should start by <a href="https://docs.joomla.org/Planning_for_Mini-Migration_-_Joomla_3.10.x_to_4.x"><b>reading the Joomla 3.10 to 4.x upgrade guide</b></a> and reviewing the <strong>compatibility</strong> of your extensions. <strong>Incompatible extensions</strong>, <strong>templates</strong> and <strong>custom template overrides</strong> may well <strong>break your site</strong>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 19 Aug 2021 15:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.6.2 Release!</title>
+			<link>https://www.joomlapolis.com/news/18949-community-builder-2-6-2-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18949-community-builder-2-6-2-release</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/products/cb/logo.svg" width="820" height="322" /></p>
+<p style="text-align: center;"><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.2</a> can be freely <a href="https://www.joomlapolis.com/downloads/free" rel="alternate">downloaded</a> by all registered members</p>
+<p style="text-align: center;"> </p>
+<p>We just released <a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.2</a> to fix all known issues for just released <strong>Joomla 3.10 and Joomla 4.</strong></p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">CB 2.6.2</a> contains <strong>4 minor but important compatibility fixes for Joomla 3.10 and Joomla 4.0.</strong></p>
+<p>Details can be found in the <a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=188" target="_blank" rel="noopener noreferrer">full CB 2.6.2 changelog</a>.</p>
+<p><strong>Community Builder 2.6.2</strong> is a highly recommended upgrade for all CB sites on Joomla 3.x and 4.0.</p>
+<p>Unless you are just upgrading from 2.6.1 to 2.6.2, as always, you should <strong>first test on a cloned environment</strong> before upgrading your production site.</p>
+<p>Our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo website</a> has already been updated to Community Builder 2.6.2, so you can see it in action along will all our Joomlapolis add-ons.</p>
+<h3>Community Builder 2.7 is next on our list!</h3>
+<p>Our next planed release, Community Builder 2.7, will be released shortly. As already announced in <a href="https://www.joomlapolis.com/news/18931-community-builder-2-6-release">CB 2.6.0</a> and <a href="https://www.joomlapolis.com/news/18947-community-builder-2-6-1-release">CB 2.6.1</a> news, CB 2.7 will require PHP 7.4+ and MySql 5.6+. The upgrade/install process will check these requirements.</p>
+<p>As Joomla 3.10 is now the only maintained 3.x series and a simple one-click backwards compatible upgrade from Joomla 3.9.x, we are revisiting our Joomla requirement for next CB 2.7 to Joomla 3.10 (up from now unmaintained 3.9 series 3.9.0, released 3 years ago).</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 19 Aug 2021 14:45:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Community Builder 2.6.1 Release!</title>
+			<link>https://www.joomlapolis.com/news/18947-community-builder-2-6-1-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18947-community-builder-2-6-1-release</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/products/cb/logo.svg" width="820" height="322" /></p>
+<p style="text-align: center;"><a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.1</a> can be freely <a href="https://www.joomlapolis.com/downloads/free" rel="alternate">downloaded</a> by all registered members</p>
+<p style="text-align: center;"> </p>
+<p>We just released <a href="https://www.joomlapolis.com/{URLCommunityBuilder}">Community Builder 2.6.1</a> with <strong>11 new features</strong> and <strong>20 bug fixes!</strong></p>
+<p>The main new features (<a href="https://forge.joomlapolis.com/projects/cb/issues?query_id=186" target="_blank" rel="noopener noreferrer">full CB 2.6.1 changelog</a>) include:</p>
+<ul>
+<li><strong>Modernized rating fields</strong></li>
+<li>Massively <strong>improved </strong><strong>speed</strong> in front-end and mainly in administration back-end thanks to <a href="https://www.joomlapolis.com/blog/kyle/18942-backend-performance-improvements">rewritten Javascript</a></li>
+<li>Improved <strong>integrated </strong><strong>private messaging</strong> with message read date indication</li>
+<li>better <strong>MySQL 8.0</strong> and <strong>PHP 8.0</strong> support</li>
+<li>Client-side image resizing for PNG, WEBP and AVIF images</li>
+<li>Improved Joomla 4.0 RC6 support</li>
+<li><a href="https://www.joomlapolis.com/blog/kyle/18944-minimum-system-requirements-update">Updated</a> advanced warning for obsolete (and soon incompatible) PHP, MySQL and Joomla versions</li>
+</ul>
+<p><strong>Community Builder 2.6.1</strong> is a recommended upgrade for all CB sites.</p>
+<p>Our <a href="https://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo website</a> has already been updated to Community Builder 2.6.1, so you can see it in action along will all our Joomlapolis add-ons.</p>
+<p>As always, you should <strong>first test on a cloned environment</strong> before upgrading your production site.</p>
+<h3>Looking ahead to Community Builder 2.7 and 3.0!</h3>
+<p>Our next release, Community Builder 2.7, will be released shortly after <a href="https://www.joomlapolis.com/news/18946-get-ready-for-joomla-4">Joomla 3.10 and 4.0 Stable releases, due August 17th</a>. We have already started modernizing our code-base for CB 3.0 as you will see in next CB 2.7 release. This modernization effort will use new features that PHP 7.4 supports. This means that the obsolete PHP 5.6 to 7.3 versions will no longer be supported starting with the next CB 2.7 stable release. The CB 2.7 upgrade/install process will be checking the PHP version as a prerequisite for completion. Similar checking will apply to over 10 years old MySQL versions prior to MySQL 5.6 (revised down from 5 years old expected 5.7.8 version) and to Joomla versions prior to Joomla 3.9.0, released 3 years ago. To avoid any surprises, we have added PHP, MySQL and Joomla obsolete version warnings since CB 2.6.0.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 10 Aug 2021 22:31:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Get ready for Joomla 4!</title>
+			<link>https://www.joomlapolis.com/news/18946-get-ready-for-joomla-4</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18946-get-ready-for-joomla-4</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5843-birthday-present-announcement-joomla-4-stable-17th-august.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202108/j4_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5843-birthday-present-announcement-joomla-4-stable-17th-august.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4 and 3.10 release dates</a></p>
+<p> </p>
+<p><strong>Joomla 4 stable</strong> and <strong>Joomla 3.10</strong> are scheduled to be released on August 17th on Joomla's 16th birthday!<strong><br /></strong></p>
+<p>It has been a full nine years in the making - a huge open source community effort.</p>
+<p>With over 123,000,000 downloads in its 16 years, Joomla has been translated into 77 languages and is currently powering over 2.5 million sites. With an estimated market share at 3.1% Joomla is the third most popular CMS accounting for one in every 50 websites on the internet. Joomla’s emphasis on accessibility, speed, security and SEO make it the CMS of choice for business site (estimated at 9%) and sites that want to expand and grow.</p>
+<p>You can start preparing your migration to Joomla 4.0 project using the <a href="https://www.joomla.org/announcements/release-news/5842-joomla-4-rc-5-and-joomla-3-10-rc-1-are-here.html" target="_blank" rel="noopener noreferrer">Joomla 3.10 RC1 and Joomla 4 RC5</a> releases.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install and run just fine on both environments</strong>.</p>
+<p>The CB Team has been testing all our extensions on both environments and our community is encouraged to take Joomla 4 RC5 for a spin on your test sites and report back issues to the Joomla Team and any CB related issues to us.</p>
+<p>You can learn more about these new releases by <a href="https://www.joomla.org/announcements/release-news/5843-birthday-present-announcement-joomla-4-stable-17th-august.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla announcement</a>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 03 Aug 2021 23:06:08 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4 RC4 and Joomla 3.10 alpha 9 are here!</title>
+			<link>https://www.joomlapolis.com/news/18943-joomla-4-rc4-and-joomla-3-10-alpha-9-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18943-joomla-4-rc4-and-joomla-3-10-alpha-9-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5841-joomla-4-rc-4-and-joomla-3-10-alpha-9-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202106/j4rc2_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5841-joomla-4-rc-4-and-joomla-3-10-alpha-9-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4 RC4 and 3.10 alpha 9 are here</a> - another step closer to Joomla 4 stable!</p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4 RC4</strong> and <strong>Joomla 3.10 alpha 9</strong>.<strong><br /></strong></p>
+<p>Reminder: Joomla 4.0 RC4 is aimed at extension and template developers. Everyone is encouraged to test the package and to report issues on the Joomla! CMS Issue Tracker.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install and run just fine on both environments</strong>.</p>
+<p>The CB Team has been testing all our extensions on both environments and our community is encouraged to take Joomla 4 RC4 for a spin on your test sites and report back issues to the Joomla Team and any CB related issues to us.</p>
+<p>We have also started a new <a href="https://www.youtube.com/watch?v=w1dGC5Ny1Dc&amp;list=PLp0puRITgC7Pj2X83Y3Yb3roxoxvBaZx1" target="_blank" rel="noopener noreferrer">Joomla 4 RC playlist on our YouTube channel</a> and will be releasing more videos soon. Make sure you subscribe so you don't miss out on new videos.</p>
+<p>You can learn more about these new releases by <a href="https://www.joomla.org/announcements/release-news/5841-joomla-4-rc-4-and-joomla-3-10-alpha-9-are-here.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla announcement</a>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 20 Jul 2021 22:12:24 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 3.9.28 security and bug fixes release</title>
+			<link>https://www.joomlapolis.com/news/18941-joomla-3-9-28-security-and-bug-fixes-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18941-joomla-3-9-28-security-and-bug-fixes-release</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5840-joomla-3-9-28.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202107/joomla-3928_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5840-joomla-3-9-28.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 3.9.28 is here</a> - a security and bug fixes release!</p>
+<p> </p>
+<p>The Joomla project team has recently released version <strong>3.9.28</strong> as a <strong>security and bug fixes release</strong>.</p>
+<p>Joomla 3.9.28 fixes 5 (<strong>low severity</strong>) security issues and several bugs.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>work just fine with Joomla 3.9.28</strong>. You can see everything in action on our <a href="http://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo site</a>.</p>
+<p><strong>Joomla 3.9.28</strong> is a recommended upgrade for all Joomla sites - you should <strong>upgrade</strong>.</p>
+<p><strong>As always</strong>, before any Joomla upgrade on your live website, <strong>take a backup</strong> just in case anything goes wrong.</p>
+<p>Also, it is always a good idea to review the specific <a href="https://docs.joomla.org/Category:Version_3.9.28_FAQ" target="_blank" rel="noopener noreferrer">Joomla 3.9.28 release FAQ article</a> for any release specific known issues.</p>
+<p>You can learn more about the fixed bugs by <a href="https://www.joomla.org/announcements/release-news/5840-joomla-3-9-28.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla 3.9.28</a> announcement.</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 15 Jul 2021 22:45:44 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4 RC3 and Joomla 3.10 alpha 8 are here!</title>
+			<link>https://www.joomlapolis.com/news/18939-joomla-4-rc3-and-joomla-3-10-alpha-8-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18939-joomla-4-rc3-and-joomla-3-10-alpha-8-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5839-joomla-4-rc-3-and-joomla-3-10-alpha-8-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202106/j4rc2_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5839-joomla-4-rc-3-and-joomla-3-10-alpha-8-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4 RC3 and 3.10 alpha 8 are here</a> - another step closer to Joomla 4 stable!</p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4 RC3</strong> and <strong>Joomla 3.10 alpha 8</strong></p>
+<p>Once again, Joomla 4.0 RC3 is aimed at extension and template developers. Everyone is encouraged to test the package and to report issues on the Joomla! CMS Issue Tracker.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install just fine on both environments</strong>.</p>
+<p>The CB Team has been testing our extensions on both environments and our community is encouraged to take Joomla 4 RC3 for a spin on your test sites and report back issues to the Joomla Team and any CB related issues to us.</p>
+<p>We have also started a new <a href="https://www.youtube.com/watch?v=w1dGC5Ny1Dc&amp;list=PLp0puRITgC7Pj2X83Y3Yb3roxoxvBaZx1" target="_blank" rel="noopener noreferrer">Joomla 4 RC playlist on our YouTube channel</a> and will be releasing more videos soon. Make sure you subscribe so you don't miss out on new videos.</p>
+<p>You can learn more about these new releases by <a href="https://www.joomla.org/announcements/release-news/5839-joomla-4-rc-3-and-joomla-3-10-alpha-8-are-here.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla announcement</a>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Thu, 08 Jul 2021 23:44:02 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 4 RC2 an Joomla 3.10 alpha 7 are here!</title>
+			<link>https://www.joomlapolis.com/news/18937-joomla-4-rc2-an-joomla-3-10-alpha-7-are-here</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18937-joomla-4-rc2-an-joomla-3-10-alpha-7-are-here</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5838-joomla-4-rc-2-and-joomla-3-10-alpha-7-are-here.html" target="_blank" rel="noopener noreferrer"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202106/j4rc2_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5838-joomla-4-rc-2-and-joomla-3-10-alpha-7-are-here.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 4 RC2 and 3.10 alpha 7 are here</a> - another giant step towards Joomla 4 stable!</p>
+<p> </p>
+<p>The Joomla project team has recently released <strong>Joomla 4 RC2</strong> and <strong>Joomla 3.10 alpha 7</strong>. This is another <strong>giant step towards Joomla 4 stable!</strong></p>
+<p>As per the announcement, Joomla 4.0 RC2 is aimed at extension and template developers. To encourage them to work with this release in order to prepare extensions for the stable release of Joomla! CMS 4.0. Users are encouraged to test the package for issues and to report issues in the Joomla! CMS Issue Tracker.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>should install just fine on both environments</strong>.</p>
+<p>The CB Team has been testing our extensions on both environments and our community is encouraged to take Joomla 4 RC2 for a spin on your test sites and report back issues to the Joomla Team and any CB related issues to us.</p>
+<p>We have also started a new <a href="https://www.youtube.com/watch?v=w1dGC5Ny1Dc&amp;list=PLp0puRITgC7Pj2X83Y3Yb3roxoxvBaZx1" target="_blank" rel="noopener noreferrer">Joomla 4 RC playlist on our YouTube channel</a>. Make sure you subscribe so you don't miss out on new videos.</p>
+<p>You can learn more about these new releases by <a href="https://www.joomla.org/announcements/release-news/5838-joomla-4-rc-2-and-joomla-3-10-alpha-7-are-here.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla announcement</a>.</p>]]></description>
+			<category>News</category>
+			<pubDate>Tue, 22 Jun 2021 23:14:35 +0000</pubDate>
+		</item>
+		<item>
+			<title>CB Paid Subscriptions 4.5.2 Release!</title>
+			<link>https://www.joomlapolis.com/news/18934-cb-paid-subscriptions-cbsubs-4-5-2-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18934-cb-paid-subscriptions-cbsubs-4-5-2-release</guid>
+			<description><![CDATA[<p style="text-align: center;"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202105/cbsubs452_640.jpg" alt="CBSubs order with examples of 10% discount for orders above 100$, 2.5% currency-conversion fee for foreign currencies and a sales tax of 12% on each item, except for the first 20$" width="640" height="350" /></p>
+<p style="text-align: left;"><em><a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions" rel="alternate">CB Paid Subscriptions (CBSubs) 4.5.2</a> can condtion promotions and mailers based on order amount, currency or payment gateway. It can also handle partial sales taxes or promotions!</em><br /><em>Here, an example of an order summary with 10% discount for orders above 100$, 2.5% currency-conversion fee for foreign currencies and a sales tax of 12% on each item, except for the first 20$.</em></p>
+<p> </p>
+<p><a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions" rel="alternate">CB Paid Subscriptions (CBSubs GPL) 4.5.2</a> is a <strong>compatibility, features</strong> and <strong>improvements</strong> release. CBSubs 4.5.2 improves <strong>promotions</strong> and <strong>mailers</strong> with new conditions based on latest/current order. For example, <strong>Discounts, markups</strong> and mailers can now be based on the total amount, currency or payment gateway method used.</p>
+<p>CBSubs 4.5.2 also <strong>addresses an API bug of Paypal.com</strong> affecting the "Thank you" page when returning to site after payment, in the cases where the direct IPN notification comes after the redirect. <strong>CBSubs 4.5.2 is a highly recommended upgrade</strong> for sites using Paypal (standard).</p>
+<p>CBSubs 4.5.2 also brings full compatibility with <strong>Joomla 4.0</strong>, <strong>PHP 8.0</strong> and <strong>MySQL 8.0</strong>, in addition of Joomla 3.x and PHP 7.x/5.6.</p>
+<p>The main new features in this release are:</p>
+<ul>
+<li><strong>Promotions </strong>discounts and markups, as well as<strong> mailers </strong>can now also be<strong> conditioned on</strong> the latest <strong>order</strong>/payment basket, like the selected <strong>payment gateway/</strong>method used, total order <strong>amount</strong> or <strong>currency</strong>.</li>
+<li>A new promotion and tax calculation method: "<strong>Percentage</strong> of the item price <strong>but</strong> to which an amount is first added or substracted".</li>
+<li><strong>Addresses an API bug at Paypal.com</strong> affecting the return to the site's "Thank You" page after payment at paypal, in cases when the Paypal.com IPN notification comes the user is redirected back to the website. Paypal engineers have been notified of the API bug, but have not yet addressed the bug nor replied with a timeline, This is why CBSubs 4.5.2 implements a workaround for this bug and is a <strong>highly recommended priority upgrade for sites using Paypal</strong> (Paypal standard).</li>
+<li>Clarifications in the parameters for promotions, mailers and taxes.</li>
+<li>New admin sub-menus for taxes, promotions and mailers.</li>
+<li>Compatibility with <strong>Joomla 4.0 RC1</strong> and <strong>3.10 alpha 6</strong>.</li>
+<li>Support for <strong>PHP 8.0</strong> and <strong>MySQL 8.0</strong>.</li>
+</ul>
+<p><strong>CBSubs 4.5.2</strong> is available in our <a href="https://www.joomlapolis.com/downloads/cb-paid-subscriptions">Downloads</a> section and simply requires an active subscription to <a href="https://www.joomlapolis.com/addons/cb-paid-subscriptions">CBSubs</a>. It is a highly recommended upgrade and requires and works great with latest CB 2.6 and Joomla 3.x-4.0 RC1.</p>
+<p style="text-align: left;"><a href="https://forge.joomlapolis.com/projects/cb-paid-subscriptions/issues?query_id=180">Full changelog</a> with the over 20 improvements is available, and CBSubs 4.5.2 is also installed on our <a href="https://demo.cbdemosites.com/">demo</a> site.</p>]]></description>
+			<category>News</category>
+			<pubDate>Fri, 04 Jun 2021 18:00:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Joomla 3.9.27 Security and Bug Fixes Release</title>
+			<link>https://www.joomlapolis.com/news/18933-joomla-3-9-27-security-and-bug-fixes-release</link>
+			<guid isPermaLink="true">https://www.joomlapolis.com/news/18933-joomla-3-9-27-security-and-bug-fixes-release</guid>
+			<description><![CDATA[<p class="articleLeadImage" style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5836-joomla-3-9-27.html"><img src="https://www.joomlapolis.com/images/jpnewsletter/jpn202105/j3927_640.jpg" alt="" /></a></p>
+<p style="text-align: center;"><a href="https://www.joomla.org/announcements/release-news/5836-joomla-3-9-27.html" target="_blank" rel="nofollow noopener noreferrer">Joomla 3.9.27 is here</a> - a security and bug fixes release!</p>
+<p> </p>
+<p>The Joomla project team has recently released version <strong>3.9.27</strong> as a <strong>security and bug fixes release</strong>.</p>
+<p>Joomla 3.9.27 fixes 3 (<strong>low severity - low impact</strong>) security issues and over 15 bugs.</p>
+<p><a href="https://www.joomlapolis.com/{URLCommunityBuilder}"><strong>Community Builder</strong></a> <strong>2.6</strong> (latest build) and all Joomlapolis <a href="https://www.joomlapolis.com/{URLAddons}"><strong>add-ons</strong></a> <strong>work just fine with Joomla 3.9.27</strong>. You can see everything in action on our <a href="http://demo.cbdemosites.com/" target="_blank" rel="noopener noreferrer">demo site</a>.</p>
+<p><strong>Joomla 3.9.27</strong> is a recommended upgrade for all Joomla sites - you should <strong>upgrade</strong>.</p>
+<p><strong>As always</strong>, before any Joomla upgrade on your live website, <strong>take a backup</strong> just in case anything goes wrong.</p>
+<p>Also, it is always a good idea to review the specific <a href="https://docs.joomla.org/Category:Version_3.9.27_FAQ" target="_blank" rel="noopener noreferrer">Joomla 3.9.27 release FAQ article</a> for any release specific known issues.</p>
+<p>You can learn more about the fixed bugs by <a href="https://www.joomla.org/announcements/release-news/5836-joomla-3-9-27.html" target="_blank" rel="nofollow noopener noreferrer">reading the Joomla 3.9.27</a> announcement.</p>]]></description>
+			<category>News</category>
+			<pubDate>Wed, 26 May 2021 21:38:45 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
