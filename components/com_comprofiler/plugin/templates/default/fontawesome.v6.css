@@ -1,0 +1,2825 @@
+/*!
+ * Font Awesome Free 6.5.1 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
+ * Copyright 2023 Fonticons, Inc.
+ */
+.cb_template .fa-before:before,
+.cb_template .fa-raw,
+.cb_template .fa-raw:before,
+.cb_template .fa-raw-before:before {
+  font-weight: var(--fa-style, 900);
+}
+
+.cb_template .fa-glass:before {
+  content: "\f000";
+}
+
+.cb_template .fa-envelope-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-envelope-o:before {
+  content: "\f0e0";
+}
+
+.cb_template .fa-star-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-star-o:before {
+  content: "\f005";
+}
+
+.cb_template .fa-remove:before {
+  content: "\f00d";
+}
+
+.cb_template .fa-close:before {
+  content: "\f00d";
+}
+
+.cb_template .fa-gear:before {
+  content: "\f013";
+}
+
+.cb_template .fa-trash-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-trash-o:before {
+  content: "\f2ed";
+}
+
+.cb_template .fa-home:before {
+  content: "\f015";
+}
+
+.cb_template .fa-file-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-o:before {
+  content: "\f15b";
+}
+
+.cb_template .fa-clock-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-clock-o:before {
+  content: "\f017";
+}
+
+.cb_template .fa-arrow-circle-o-down {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-arrow-circle-o-down:before {
+  content: "\f358";
+}
+
+.cb_template .fa-arrow-circle-o-up {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-arrow-circle-o-up:before {
+  content: "\f35b";
+}
+
+.cb_template .fa-play-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-play-circle-o:before {
+  content: "\f144";
+}
+
+.cb_template .fa-repeat:before {
+  content: "\f01e";
+}
+
+.cb_template .fa-rotate-right:before {
+  content: "\f01e";
+}
+
+.cb_template .fa-refresh:before {
+  content: "\f021";
+}
+
+.cb_template .fa-list-alt {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-list-alt:before {
+  content: "\f022";
+}
+
+.cb_template .fa-dedent:before {
+  content: "\f03b";
+}
+
+.cb_template .fa-video-camera:before {
+  content: "\f03d";
+}
+
+.cb_template .fa-picture-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-picture-o:before {
+  content: "\f03e";
+}
+
+.cb_template .fa-photo {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-photo:before {
+  content: "\f03e";
+}
+
+.cb_template .fa-image {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-image:before {
+  content: "\f03e";
+}
+
+.cb_template .fa-map-marker:before {
+  content: "\f3c5";
+}
+
+.cb_template .fa-pencil-square-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-pencil-square-o:before {
+  content: "\f044";
+}
+
+.cb_template .fa-edit {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-edit:before {
+  content: "\f044";
+}
+
+.cb_template .fa-share-square-o:before {
+  content: "\f14d";
+}
+
+.cb_template .fa-check-square-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-check-square-o:before {
+  content: "\f14a";
+}
+
+.cb_template .fa-arrows:before {
+  content: "\f0b2";
+}
+
+.cb_template .fa-times-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-times-circle-o:before {
+  content: "\f057";
+}
+
+.cb_template .fa-check-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-check-circle-o:before {
+  content: "\f058";
+}
+
+.cb_template .fa-mail-forward:before {
+  content: "\f064";
+}
+
+.cb_template .fa-expand:before {
+  content: "\f424";
+}
+
+.cb_template .fa-compress:before {
+  content: "\f422";
+}
+
+.cb_template .fa-eye {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-eye-slash {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-warning:before {
+  content: "\f071";
+}
+
+.cb_template .fa-calendar:before {
+  content: "\f073";
+}
+
+.cb_template .fa-arrows-v:before {
+  content: "\f338";
+}
+
+.cb_template .fa-arrows-h:before {
+  content: "\f337";
+}
+
+.cb_template .fa-bar-chart:before {
+  content: "\e0e3";
+}
+
+.cb_template .fa-bar-chart-o:before {
+  content: "\e0e3";
+}
+
+.cb_template .fa-twitter-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-twitter-square:before {
+  content: "\f081";
+}
+
+.cb_template .fa-facebook-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-facebook-square:before {
+  content: "\f082";
+}
+
+.cb_template .fa-gears:before {
+  content: "\f085";
+}
+
+.cb_template .fa-thumbs-o-up {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-thumbs-o-up:before {
+  content: "\f164";
+}
+
+.cb_template .fa-thumbs-o-down {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-thumbs-o-down:before {
+  content: "\f165";
+}
+
+.cb_template .fa-heart-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-heart-o:before {
+  content: "\f004";
+}
+
+.cb_template .fa-sign-out:before {
+  content: "\f2f5";
+}
+
+.cb_template .fa-linkedin-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-linkedin-square:before {
+  content: "\f08c";
+}
+
+.cb_template .fa-thumb-tack:before {
+  content: "\f08d";
+}
+
+.cb_template .fa-external-link:before {
+  content: "\f35d";
+}
+
+.cb_template .fa-sign-in:before {
+  content: "\f2f6";
+}
+
+.cb_template .fa-github-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-github-square:before {
+  content: "\f092";
+}
+
+.cb_template .fa-lemon-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-lemon-o:before {
+  content: "\f094";
+}
+
+.cb_template .fa-square-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-square-o:before {
+  content: "\f0c8";
+}
+
+.cb_template .fa-bookmark-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-bookmark-o:before {
+  content: "\f02e";
+}
+
+.cb_template .fa-twitter {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-facebook {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-facebook:before {
+  content: "\f39e";
+}
+
+.cb_template .fa-facebook-f {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-facebook-f:before {
+  content: "\f39e";
+}
+
+.cb_template .fa-github {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-credit-card {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-feed:before {
+  content: "\f09e";
+}
+
+.cb_template .fa-hdd-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hdd-o:before {
+  content: "\f0a0";
+}
+
+.cb_template .fa-hand-o-right {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-o-right:before {
+  content: "\f0a4";
+}
+
+.cb_template .fa-hand-o-left {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-o-left:before {
+  content: "\f0a5";
+}
+
+.cb_template .fa-hand-o-up {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-o-up:before {
+  content: "\f0a6";
+}
+
+.cb_template .fa-hand-o-down {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-o-down:before {
+  content: "\f0a7";
+}
+
+.cb_template .fa-globe:before {
+  content: "\f57d";
+}
+
+.cb_template .fa-tasks:before {
+  content: "\f828";
+}
+
+.cb_template .fa-arrows-alt:before {
+  content: "\f31e";
+}
+
+.cb_template .fa-group:before {
+  content: "\f0c0";
+}
+
+.cb_template .fa-chain:before {
+  content: "\f0c1";
+}
+
+.cb_template .fa-cut:before {
+  content: "\f0c4";
+}
+
+.cb_template .fa-files-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-files-o:before {
+  content: "\f0c5";
+}
+
+.cb_template .fa-floppy-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-floppy-o:before {
+  content: "\f0c7";
+}
+
+.cb_template .fa-save {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-save:before {
+  content: "\f0c7";
+}
+
+.cb_template .fa-navicon:before {
+  content: "\f0c9";
+}
+
+.cb_template .fa-reorder:before {
+  content: "\f0c9";
+}
+
+.cb_template .fa-magic:before {
+  content: "\e2ca";
+}
+
+.cb_template .fa-pinterest {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pinterest-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pinterest-square:before {
+  content: "\f0d3";
+}
+
+.cb_template .fa-google-plus-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-plus-square:before {
+  content: "\f0d4";
+}
+
+.cb_template .fa-google-plus {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-plus:before {
+  content: "\f0d5";
+}
+
+.cb_template .fa-money:before {
+  content: "\f3d1";
+}
+
+.cb_template .fa-unsorted:before {
+  content: "\f0dc";
+}
+
+.cb_template .fa-sort-desc:before {
+  content: "\f0dd";
+}
+
+.cb_template .fa-sort-asc:before {
+  content: "\f0de";
+}
+
+.cb_template .fa-linkedin {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-linkedin:before {
+  content: "\f0e1";
+}
+
+.cb_template .fa-rotate-left:before {
+  content: "\f0e2";
+}
+
+.cb_template .fa-legal:before {
+  content: "\f0e3";
+}
+
+.cb_template .fa-tachometer:before {
+  content: "\f625";
+}
+
+.cb_template .fa-dashboard:before {
+  content: "\f625";
+}
+
+.cb_template .fa-comment-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-comment-o:before {
+  content: "\f075";
+}
+
+.cb_template .fa-comments-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-comments-o:before {
+  content: "\f086";
+}
+
+.cb_template .fa-flash:before {
+  content: "\f0e7";
+}
+
+.cb_template .fa-clipboard:before {
+  content: "\f0ea";
+}
+
+.cb_template .fa-lightbulb-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-lightbulb-o:before {
+  content: "\f0eb";
+}
+
+.cb_template .fa-exchange:before {
+  content: "\f362";
+}
+
+.cb_template .fa-cloud-download:before {
+  content: "\f0ed";
+}
+
+.cb_template .fa-cloud-upload:before {
+  content: "\f0ee";
+}
+
+.cb_template .fa-bell-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-bell-o:before {
+  content: "\f0f3";
+}
+
+.cb_template .fa-cutlery:before {
+  content: "\f2e7";
+}
+
+.cb_template .fa-file-text-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-text-o:before {
+  content: "\f15c";
+}
+
+.cb_template .fa-building-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-building-o:before {
+  content: "\f1ad";
+}
+
+.cb_template .fa-hospital-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hospital-o:before {
+  content: "\f0f8";
+}
+
+.cb_template .fa-tablet:before {
+  content: "\f3fa";
+}
+
+.cb_template .fa-mobile:before {
+  content: "\f3cd";
+}
+
+.cb_template .fa-mobile-phone:before {
+  content: "\f3cd";
+}
+
+.cb_template .fa-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-circle-o:before {
+  content: "\f111";
+}
+
+.cb_template .fa-mail-reply:before {
+  content: "\f3e5";
+}
+
+.cb_template .fa-github-alt {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-folder-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-folder-o:before {
+  content: "\f07b";
+}
+
+.cb_template .fa-folder-open-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-folder-open-o:before {
+  content: "\f07c";
+}
+
+.cb_template .fa-smile-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-smile-o:before {
+  content: "\f118";
+}
+
+.cb_template .fa-frown-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-frown-o:before {
+  content: "\f119";
+}
+
+.cb_template .fa-meh-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-meh-o:before {
+  content: "\f11a";
+}
+
+.cb_template .fa-keyboard-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-keyboard-o:before {
+  content: "\f11c";
+}
+
+.cb_template .fa-flag-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-flag-o:before {
+  content: "\f024";
+}
+
+.cb_template .fa-mail-reply-all:before {
+  content: "\f122";
+}
+
+.cb_template .fa-star-half-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-star-half-o:before {
+  content: "\f5c0";
+}
+
+.cb_template .fa-star-half-empty {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-star-half-empty:before {
+  content: "\f5c0";
+}
+
+.cb_template .fa-star-half-full {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-star-half-full:before {
+  content: "\f5c0";
+}
+
+.cb_template .fa-code-fork:before {
+  content: "\f126";
+}
+
+.cb_template .fa-chain-broken:before {
+  content: "\f127";
+}
+
+.cb_template .fa-unlink:before {
+  content: "\f127";
+}
+
+.cb_template .fa-calendar-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-o:before {
+  content: "\f133";
+}
+
+.cb_template .fa-maxcdn {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-html5 {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-css3 {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-unlock-alt:before {
+  content: "\f09c";
+}
+
+.cb_template .fa-minus-square-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-minus-square-o:before {
+  content: "\f146";
+}
+
+.cb_template .fa-level-up:before {
+  content: "\f3bf";
+}
+
+.cb_template .fa-level-down:before {
+  content: "\f3be";
+}
+
+.cb_template .fa-pencil-square:before {
+  content: "\f14b";
+}
+
+.cb_template .fa-external-link-square:before {
+  content: "\f360";
+}
+
+.cb_template .fa-compass {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-caret-square-o-down {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-caret-square-o-down:before {
+  content: "\f150";
+}
+
+.cb_template .fa-toggle-down {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-toggle-down:before {
+  content: "\f150";
+}
+
+.cb_template .fa-caret-square-o-up {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-caret-square-o-up:before {
+  content: "\f151";
+}
+
+.cb_template .fa-toggle-up {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-toggle-up:before {
+  content: "\f151";
+}
+
+.cb_template .fa-caret-square-o-right {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-caret-square-o-right:before {
+  content: "\f152";
+}
+
+.cb_template .fa-toggle-right {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-toggle-right:before {
+  content: "\f152";
+}
+
+.cb_template .fa-eur:before {
+  content: "\f153";
+}
+
+.cb_template .fa-euro:before {
+  content: "\f153";
+}
+
+.cb_template .fa-gbp:before {
+  content: "\f154";
+}
+
+.cb_template .fa-usd:before {
+  content: "\24";
+}
+
+.cb_template .fa-dollar:before {
+  content: "\24";
+}
+
+.cb_template .fa-inr:before {
+  content: "\e1bc";
+}
+
+.cb_template .fa-rupee:before {
+  content: "\e1bc";
+}
+
+.cb_template .fa-jpy:before {
+  content: "\f157";
+}
+
+.cb_template .fa-cny:before {
+  content: "\f157";
+}
+
+.cb_template .fa-rmb:before {
+  content: "\f157";
+}
+
+.cb_template .fa-yen:before {
+  content: "\f157";
+}
+
+.cb_template .fa-rub:before {
+  content: "\f158";
+}
+
+.cb_template .fa-ruble:before {
+  content: "\f158";
+}
+
+.cb_template .fa-rouble:before {
+  content: "\f158";
+}
+
+.cb_template .fa-krw:before {
+  content: "\f159";
+}
+
+.cb_template .fa-won:before {
+  content: "\f159";
+}
+
+.cb_template .fa-btc {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bitcoin {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bitcoin:before {
+  content: "\f15a";
+}
+
+.cb_template .fa-file-text:before {
+  content: "\f15c";
+}
+
+.cb_template .fa-sort-alpha-asc:before {
+  content: "\f15d";
+}
+
+.cb_template .fa-sort-alpha-desc:before {
+  content: "\f881";
+}
+
+.cb_template .fa-sort-amount-asc:before {
+  content: "\f884";
+}
+
+.cb_template .fa-sort-amount-desc:before {
+  content: "\f160";
+}
+
+.cb_template .fa-sort-numeric-asc:before {
+  content: "\f162";
+}
+
+.cb_template .fa-sort-numeric-desc:before {
+  content: "\f886";
+}
+
+.cb_template .fa-youtube-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-youtube-square:before {
+  content: "\f431";
+}
+
+.cb_template .fa-youtube {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-xing {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-xing-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-xing-square:before {
+  content: "\f169";
+}
+
+.cb_template .fa-youtube-play {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-youtube-play:before {
+  content: "\f167";
+}
+
+.cb_template .fa-dropbox {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-stack-overflow {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-instagram {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-flickr {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-adn {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bitbucket {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bitbucket-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bitbucket-square:before {
+  content: "\f171";
+}
+
+.cb_template .fa-tumblr {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-tumblr-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-tumblr-square:before {
+  content: "\f174";
+}
+
+.cb_template .fa-long-arrow-down:before {
+  content: "\f309";
+}
+
+.cb_template .fa-long-arrow-up:before {
+  content: "\f30c";
+}
+
+.cb_template .fa-long-arrow-left:before {
+  content: "\f30a";
+}
+
+.cb_template .fa-long-arrow-right:before {
+  content: "\f30b";
+}
+
+.cb_template .fa-apple {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-windows {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-android {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-linux {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-dribbble {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-skype {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-foursquare {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-trello {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gratipay {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gittip {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gittip:before {
+  content: "\f184";
+}
+
+.cb_template .fa-sun-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-sun-o:before {
+  content: "\f185";
+}
+
+.cb_template .fa-moon-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-moon-o:before {
+  content: "\f186";
+}
+
+.cb_template .fa-vk {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-weibo {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-renren {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pagelines {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-stack-exchange {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-arrow-circle-o-right {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-arrow-circle-o-right:before {
+  content: "\f35a";
+}
+
+.cb_template .fa-arrow-circle-o-left {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-arrow-circle-o-left:before {
+  content: "\f359";
+}
+
+.cb_template .fa-caret-square-o-left {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-caret-square-o-left:before {
+  content: "\f191";
+}
+
+.cb_template .fa-toggle-left {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-toggle-left:before {
+  content: "\f191";
+}
+
+.cb_template .fa-dot-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-dot-circle-o:before {
+  content: "\f192";
+}
+
+.cb_template .fa-vimeo-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-vimeo-square:before {
+  content: "\f194";
+}
+
+.cb_template .fa-try:before {
+  content: "\e2bb";
+}
+
+.cb_template .fa-turkish-lira:before {
+  content: "\e2bb";
+}
+
+.cb_template .fa-plus-square-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-plus-square-o:before {
+  content: "\f0fe";
+}
+
+.cb_template .fa-slack {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wordpress {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-openid {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-institution:before {
+  content: "\f19c";
+}
+
+.cb_template .fa-bank:before {
+  content: "\f19c";
+}
+
+.cb_template .fa-mortar-board:before {
+  content: "\f19d";
+}
+
+.cb_template .fa-yahoo {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-reddit {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-reddit-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-reddit-square:before {
+  content: "\f1a2";
+}
+
+.cb_template .fa-stumbleupon-circle {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-stumbleupon {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-delicious {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-digg {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pied-piper-pp {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pied-piper-alt {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-drupal {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-joomla {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-behance {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-behance-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-behance-square:before {
+  content: "\f1b5";
+}
+
+.cb_template .fa-steam {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-steam-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-steam-square:before {
+  content: "\f1b7";
+}
+
+.cb_template .fa-automobile:before {
+  content: "\f1b9";
+}
+
+.cb_template .fa-cab:before {
+  content: "\f1ba";
+}
+
+.cb_template .fa-spotify {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-deviantart {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-soundcloud {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-pdf-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-pdf-o:before {
+  content: "\f1c1";
+}
+
+.cb_template .fa-file-word-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-word-o:before {
+  content: "\f1c2";
+}
+
+.cb_template .fa-file-excel-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-excel-o:before {
+  content: "\f1c3";
+}
+
+.cb_template .fa-file-powerpoint-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-powerpoint-o:before {
+  content: "\f1c4";
+}
+
+.cb_template .fa-file-image-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-image-o:before {
+  content: "\f1c5";
+}
+
+.cb_template .fa-file-photo-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-photo-o:before {
+  content: "\f1c5";
+}
+
+.cb_template .fa-file-picture-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-picture-o:before {
+  content: "\f1c5";
+}
+
+.cb_template .fa-file-archive-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-archive-o:before {
+  content: "\f1c6";
+}
+
+.cb_template .fa-file-zip-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-zip-o:before {
+  content: "\f1c6";
+}
+
+.cb_template .fa-file-audio-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-audio-o:before {
+  content: "\f1c7";
+}
+
+.cb_template .fa-file-sound-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-sound-o:before {
+  content: "\f1c7";
+}
+
+.cb_template .fa-file-video-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-video-o:before {
+  content: "\f1c8";
+}
+
+.cb_template .fa-file-movie-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-movie-o:before {
+  content: "\f1c8";
+}
+
+.cb_template .fa-file-code-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-file-code-o:before {
+  content: "\f1c9";
+}
+
+.cb_template .fa-vine {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-codepen {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-jsfiddle {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-life-bouy:before {
+  content: "\f1cd";
+}
+
+.cb_template .fa-life-buoy:before {
+  content: "\f1cd";
+}
+
+.cb_template .fa-life-saver:before {
+  content: "\f1cd";
+}
+
+.cb_template .fa-support:before {
+  content: "\f1cd";
+}
+
+.cb_template .fa-circle-o-notch:before {
+  content: "\f1ce";
+}
+
+.cb_template .fa-rebel {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-ra {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-ra:before {
+  content: "\f1d0";
+}
+
+.cb_template .fa-resistance {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-resistance:before {
+  content: "\f1d0";
+}
+
+.cb_template .fa-empire {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-ge {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-ge:before {
+  content: "\f1d1";
+}
+
+.cb_template .fa-git-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-git-square:before {
+  content: "\f1d2";
+}
+
+.cb_template .fa-git {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-hacker-news {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-y-combinator-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-y-combinator-square:before {
+  content: "\f1d4";
+}
+
+.cb_template .fa-yc-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-yc-square:before {
+  content: "\f1d4";
+}
+
+.cb_template .fa-tencent-weibo {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-qq {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-weixin {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wechat {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wechat:before {
+  content: "\f1d7";
+}
+
+.cb_template .fa-send:before {
+  content: "\f1d8";
+}
+
+.cb_template .fa-paper-plane-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-paper-plane-o:before {
+  content: "\f1d8";
+}
+
+.cb_template .fa-send-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-send-o:before {
+  content: "\f1d8";
+}
+
+.cb_template .fa-circle-thin {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-circle-thin:before {
+  content: "\f111";
+}
+
+.cb_template .fa-header:before {
+  content: "\f1dc";
+}
+
+.cb_template .fa-futbol-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-futbol-o:before {
+  content: "\f1e3";
+}
+
+.cb_template .fa-soccer-ball-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-soccer-ball-o:before {
+  content: "\f1e3";
+}
+
+.cb_template .fa-slideshare {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-twitch {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-yelp {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-newspaper-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-newspaper-o:before {
+  content: "\f1ea";
+}
+
+.cb_template .fa-paypal {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-wallet {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-visa {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-mastercard {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-discover {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-amex {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-paypal {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-stripe {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bell-slash-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-bell-slash-o:before {
+  content: "\f1f6";
+}
+
+.cb_template .fa-trash:before {
+  content: "\f2ed";
+}
+
+.cb_template .fa-copyright {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-eyedropper:before {
+  content: "\f1fb";
+}
+
+.cb_template .fa-area-chart:before {
+  content: "\f1fe";
+}
+
+.cb_template .fa-pie-chart:before {
+  content: "\f200";
+}
+
+.cb_template .fa-line-chart:before {
+  content: "\f201";
+}
+
+.cb_template .fa-lastfm {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-lastfm-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-lastfm-square:before {
+  content: "\f203";
+}
+
+.cb_template .fa-ioxhost {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-angellist {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc:before {
+  content: "\f20a";
+}
+
+.cb_template .fa-ils:before {
+  content: "\f20b";
+}
+
+.cb_template .fa-shekel:before {
+  content: "\f20b";
+}
+
+.cb_template .fa-sheqel:before {
+  content: "\f20b";
+}
+
+.cb_template .fa-buysellads {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-connectdevelop {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-dashcube {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-forumbee {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-leanpub {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-sellsy {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-shirtsinbulk {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-simplybuilt {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-skyatlas {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-diamond {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-diamond:before {
+  content: "\f3a5";
+}
+
+.cb_template .fa-transgender:before {
+  content: "\f224";
+}
+
+.cb_template .fa-intersex:before {
+  content: "\f224";
+}
+
+.cb_template .fa-transgender-alt:before {
+  content: "\f225";
+}
+
+.cb_template .fa-facebook-official {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-facebook-official:before {
+  content: "\f09a";
+}
+
+.cb_template .fa-pinterest-p {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-whatsapp {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-hotel:before {
+  content: "\f236";
+}
+
+.cb_template .fa-viacoin {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-medium {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-y-combinator {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-yc {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-yc:before {
+  content: "\f23b";
+}
+
+.cb_template .fa-optin-monster {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-opencart {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-expeditedssl {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-battery-4:before {
+  content: "\f240";
+}
+
+.cb_template .fa-battery:before {
+  content: "\f240";
+}
+
+.cb_template .fa-battery-3:before {
+  content: "\f241";
+}
+
+.cb_template .fa-battery-2:before {
+  content: "\f242";
+}
+
+.cb_template .fa-battery-1:before {
+  content: "\f243";
+}
+
+.cb_template .fa-battery-0:before {
+  content: "\f244";
+}
+
+.cb_template .fa-object-group {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-object-ungroup {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-sticky-note-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-sticky-note-o:before {
+  content: "\f249";
+}
+
+.cb_template .fa-cc-jcb {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-cc-diners-club {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-clone {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hourglass-o:before {
+  content: "\f254";
+}
+
+.cb_template .fa-hourglass-1:before {
+  content: "\f251";
+}
+
+.cb_template .fa-hourglass-2:before {
+  content: "\f252";
+}
+
+.cb_template .fa-hourglass-3:before {
+  content: "\f253";
+}
+
+.cb_template .fa-hand-rock-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-rock-o:before {
+  content: "\f255";
+}
+
+.cb_template .fa-hand-grab-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-grab-o:before {
+  content: "\f255";
+}
+
+.cb_template .fa-hand-paper-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-paper-o:before {
+  content: "\f256";
+}
+
+.cb_template .fa-hand-stop-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-stop-o:before {
+  content: "\f256";
+}
+
+.cb_template .fa-hand-scissors-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-scissors-o:before {
+  content: "\f257";
+}
+
+.cb_template .fa-hand-lizard-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-lizard-o:before {
+  content: "\f258";
+}
+
+.cb_template .fa-hand-spock-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-spock-o:before {
+  content: "\f259";
+}
+
+.cb_template .fa-hand-pointer-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-pointer-o:before {
+  content: "\f25a";
+}
+
+.cb_template .fa-hand-peace-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-hand-peace-o:before {
+  content: "\f25b";
+}
+
+.cb_template .fa-registered {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-creative-commons {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gg {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gg-circle {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-odnoklassniki {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-odnoklassniki-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-odnoklassniki-square:before {
+  content: "\f264";
+}
+
+.cb_template .fa-get-pocket {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wikipedia-w {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-safari {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-chrome {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-firefox {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-opera {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-internet-explorer {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-television:before {
+  content: "\f26c";
+}
+
+.cb_template .fa-contao {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-500px {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-amazon {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-plus-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-plus-o:before {
+  content: "\f271";
+}
+
+.cb_template .fa-calendar-minus-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-minus-o:before {
+  content: "\f272";
+}
+
+.cb_template .fa-calendar-times-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-times-o:before {
+  content: "\f273";
+}
+
+.cb_template .fa-calendar-check-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-calendar-check-o:before {
+  content: "\f274";
+}
+
+.cb_template .fa-map-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-map-o:before {
+  content: "\f279";
+}
+
+.cb_template .fa-commenting:before {
+  content: "\f4ad";
+}
+
+.cb_template .fa-commenting-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-commenting-o:before {
+  content: "\f4ad";
+}
+
+.cb_template .fa-houzz {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-vimeo {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-vimeo:before {
+  content: "\f27d";
+}
+
+.cb_template .fa-black-tie {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-fonticons {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-reddit-alien {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-edge {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-credit-card-alt:before {
+  content: "\f09d";
+}
+
+.cb_template .fa-codiepie {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-modx {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-fort-awesome {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-usb {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-product-hunt {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-mixcloud {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-scribd {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-pause-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-pause-circle-o:before {
+  content: "\f28b";
+}
+
+.cb_template .fa-stop-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-stop-circle-o:before {
+  content: "\f28d";
+}
+
+.cb_template .fa-bluetooth {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-bluetooth-b {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-gitlab {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wpbeginner {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wpforms {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-envira {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wheelchair-alt {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wheelchair-alt:before {
+  content: "\f368";
+}
+
+.cb_template .fa-question-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-question-circle-o:before {
+  content: "\f059";
+}
+
+.cb_template .fa-volume-control-phone:before {
+  content: "\f2a0";
+}
+
+.cb_template .fa-asl-interpreting:before {
+  content: "\f2a3";
+}
+
+.cb_template .fa-deafness:before {
+  content: "\f2a4";
+}
+
+.cb_template .fa-hard-of-hearing:before {
+  content: "\f2a4";
+}
+
+.cb_template .fa-glide {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-glide-g {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-signing:before {
+  content: "\f2a7";
+}
+
+.cb_template .fa-viadeo {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-viadeo-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-viadeo-square:before {
+  content: "\f2aa";
+}
+
+.cb_template .fa-snapchat {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-snapchat-ghost {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-snapchat-ghost:before {
+  content: "\f2ab";
+}
+
+.cb_template .fa-snapchat-square {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-snapchat-square:before {
+  content: "\f2ad";
+}
+
+.cb_template .fa-pied-piper {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-first-order {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-yoast {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-themeisle {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-plus-official {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-plus-official:before {
+  content: "\f2b3";
+}
+
+.cb_template .fa-google-plus-circle {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-google-plus-circle:before {
+  content: "\f2b3";
+}
+
+.cb_template .fa-font-awesome {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-fa {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-fa:before {
+  content: "\f2b4";
+}
+
+.cb_template .fa-handshake-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-handshake-o:before {
+  content: "\f2b5";
+}
+
+.cb_template .fa-envelope-open-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-envelope-open-o:before {
+  content: "\f2b6";
+}
+
+.cb_template .fa-linode {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-address-book-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-address-book-o:before {
+  content: "\f2b9";
+}
+
+.cb_template .fa-vcard:before {
+  content: "\f2bb";
+}
+
+.cb_template .fa-address-card-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-address-card-o:before {
+  content: "\f2bb";
+}
+
+.cb_template .fa-vcard-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-vcard-o:before {
+  content: "\f2bb";
+}
+
+.cb_template .fa-user-circle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-user-circle-o:before {
+  content: "\f2bd";
+}
+
+.cb_template .fa-user-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-user-o:before {
+  content: "\f007";
+}
+
+.cb_template .fa-id-badge {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-drivers-license:before {
+  content: "\f2c2";
+}
+
+.cb_template .fa-id-card-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-id-card-o:before {
+  content: "\f2c2";
+}
+
+.cb_template .fa-drivers-license-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-drivers-license-o:before {
+  content: "\f2c2";
+}
+
+.cb_template .fa-quora {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-free-code-camp {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-telegram {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-thermometer-4:before {
+  content: "\f2c7";
+}
+
+.cb_template .fa-thermometer:before {
+  content: "\f2c7";
+}
+
+.cb_template .fa-thermometer-3:before {
+  content: "\f2c8";
+}
+
+.cb_template .fa-thermometer-2:before {
+  content: "\f2c9";
+}
+
+.cb_template .fa-thermometer-1:before {
+  content: "\f2ca";
+}
+
+.cb_template .fa-thermometer-0:before {
+  content: "\f2cb";
+}
+
+.cb_template .fa-bathtub:before {
+  content: "\f2cd";
+}
+
+.cb_template .fa-s15:before {
+  content: "\f2cd";
+}
+
+.cb_template .fa-window-maximize {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-window-restore {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-times-rectangle:before {
+  content: "\f410";
+}
+
+.cb_template .fa-window-close-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-window-close-o:before {
+  content: "\f410";
+}
+
+.cb_template .fa-times-rectangle-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-times-rectangle-o:before {
+  content: "\f410";
+}
+
+.cb_template .fa-bandcamp {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-grav {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-etsy {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-imdb {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-ravelry {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-eercast {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-eercast:before {
+  content: "\f2da";
+}
+
+.cb_template .fa-snowflake-o {
+  font-family: 'Font Awesome 6 Free';
+  font-weight: 400;
+}
+
+.cb_template .fa-snowflake-o:before {
+  content: "\f2dc";
+}
+
+.cb_template .fa-superpowers {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-wpexplorer {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
+
+.cb_template .fa-meetup {
+  font-family: 'Font Awesome 6 Brands';
+  font-weight: 400;
+}
