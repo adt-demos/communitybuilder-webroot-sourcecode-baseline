@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_BEHAVIOUR_COMPAT6' => 'Behaviour - Backward Compatibility 6',
+  'PLG_COMPAT6_XML_DESCRIPTION' => 'If you use extensions which are not using the current Joomla Coding standards then this plugin, when enabled, will provide backward compatibility to the previous major version, Joomla 5.',
+);

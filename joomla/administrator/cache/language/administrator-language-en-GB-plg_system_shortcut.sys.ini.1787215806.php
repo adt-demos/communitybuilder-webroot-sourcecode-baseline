@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_SYSTEM_SHORTCUT' => 'System - Keyboard Shortcuts',
+  'PLG_SYSTEM_SHORTCUT_XML_DESCRIPTION' => '<p>Enables keyboard shortcuts on the administrator site, which can be provided by other plugins and includes directly the following list of shortcuts:</p><ul class="list-unstyled"><li><kbd>J</kbd> <small>then</small> <kbd>A</kbd> Save</li><li><kbd>J</kbd> <small>then</small> <kbd>S</kbd> Save & Close</li><li><kbd>J</kbd> <small>then</small> <kbd>Q</kbd> Cancel</li><li><kbd>J</kbd> <small>then</small> <kbd>N</kbd> New</li><li><kbd>J</kbd> <small>then</small> <kbd>F</kbd> Search</li><li><kbd>J</kbd> <small>then</small> <kbd>O</kbd> Options</li><li><kbd>J</kbd> <small>then</small> <kbd>H</kbd> Help</li><li><kbd>J</kbd> <small>then</small> <kbd>M</kbd> Toggle Menu</li><li><kbd>J</kbd> <small>then</small> <kbd>X</kbd> Overview</li><li><kbd>J</kbd> <small>then</small> <kbd>D</kbd> Home Dashboard</li></ul>',
+);

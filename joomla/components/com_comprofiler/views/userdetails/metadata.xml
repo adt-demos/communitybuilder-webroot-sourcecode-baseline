@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<view>
+		<options>
+			<default name="User Profile Edit" msg="This is an optional menu item for accessing Community Builder User profile edit. Normally not needed, as Community Builder has its own menu system on the user profile for this action." />
+		</options>
+		<fields name="request">
+			<fieldset name="request">
+				<field name="tab" type="text" extension="com_comprofiler" default="" required="false" label="Tab" description="Optionally supply a tab id or name to display it by default. Leave blank to display first tab available." />
+				<field name="uid" type="text" extension="com_comprofiler" default="" required="false" label="User" description="Optionally supply a user id to display that users profile. Leave blank to display viewing users profile." />
+			</fieldset>
+		</fields>
+	</view>
+	<state>
+		<name>Community Builder User Profile Edit</name>
+		<description>This is an optional menu item for accessing Community Builder User profile edit. Normally not needed, as Community Builder has its own menu system on the user profile for this action.</description>
+		<url addpath="/administrator/components/com_comprofiler">
+			<param name="tab" type="text" default="" label="Tab" description="Optionally supply a tab id or name to display it by default. Leave blank to display first tab available." />
+			<param name="uid" type="text" default="" label="User" description="Optionally supply a user id to display that users profile. Leave blank to display viewing users profile." />
+		</url>
+	</state>
+	<fields name="params">
+		<fieldset name="basic" label="Profile Edit">
+			<field
+				name="profile_edit_layout"
+				type="list"
+				label="Layout"
+				validate="options"
+				>
+				<option value="">Same as Template</option>
+				<option value="flat">Flat</option>
+				<option value="tabbed">Tab Horizontal (Left/Right)</option>
+				<option value="vertical">Tab Vertical (Up/Down)</option>
+				<option value="menu">Menu</option>
+				<option value="custom">Custom</option>
+			</field>
+			<field
+				name="profile_edit_layout_custom"
+				type="textarea"
+				rows="20"
+				label="Custom Layout"
+				description="Supply custom substitution and content plugin supported HTML layout to display. The HTML supplied will already been enclosed in the profile edit form element so do not include a form element here. This includes support for the following additional substitutions: [title] (renders profile edit page title), [navigation] (renders all collected tab navigation), [tabs] (renders all tab content with tab navigation), [content] (renders all tab content), [title_TAB_ID] (renders tab title based off tab id), [content_TAB_ID] (renders tab contents based off tab id), [tab_TAB_ID] (renders tab contents based off tab id with tab navigation), [legend] (renders legend icons), [button_submit] (renders form submit button), [button_cancel] (renders form cancel button), and [integrations] (results of onBeforeUserProfileEditDisplay trigger).&lt;br&gt;&lt;br&gt;Notice: This is purely visual. It will not affect form validation. If you fail to include fields that have been marked required the profile edit save will fail due to missing required field."
+				filter="raw"
+				showon="profile_edit_layout:custom"
+			/>
+		</fieldset>
+	</fields>
+</metadata>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+	<view>
+		<options>
+			<default name="Registration Form" msg="This is an optional menu item for accessing Community Builder Registration page. Normally not needed, as you would normally use Community Builder login module for this so it adapts automatically to login state." />
+		</options>
+	</view>
+	<state>
+		<name>Community Builder Registration Form</name>
+		<description>This is an optional menu item for accessing Community Builder Registration page. Normally not needed, as you would normally use Community Builder login module for this so it adapts automatically to login state.</description>
+	</state>
+	<fields name="params">
+		<fieldset name="basic" label="Registration">
+			<field
+				name="registration_layout"
+				type="list"
+				label="Layout"
+				validate="options"
+				>
+				<option value="">Same as Template</option>
+				<option value="flat">Flat</option>
+				<option value="tabbed">Tab Horizontal (Left/Right)</option>
+				<option value="vertical">Tab Vertical (Up/Down)</option>
+				<option value="stepped">Step by Step</option>
+				<option value="menu">Menu</option>
+				<option value="custom">Custom</option>
+			</field>
+			<field
+				name="registration_layout_custom"
+				type="textarea"
+				rows="20"
+				label="Custom Layout"
+				description="Supply custom substitution and content plugin supported HTML layout to display. The HTML supplied will already been enclosed in the registration form element so do not include a form element here. This includes support for the following additional substitutions: [title] (renders registration page title), [canvas] (renders registration canvas url), [header] (renders registration page header message), [footer] (renders registration page footer message), [navigation] (renders all collected tab navigation), [tabs] (renders all tab content with tab navigation), [content] (renders all tab content), [title_TAB_ID] (renders tab title based off tab id), [content_TAB_ID] (renders tab contents based off tab id), [tab_TAB_ID] (renders tab contents based off tab id with tab navigation), [legend] (renders legend icons), and [button_submit] (renders form submit button).&lt;br&gt;&lt;br&gt;Notice: This is purely visual. It will not affect form validation. If you fail to include fields that have been marked required the registration save will fail due to missing required field."
+				filter="raw"
+				showon="registration_layout:custom"
+			/>
+		</fieldset>
+	</fields>
+</metadata>

@@ -1,0 +1,18 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'ATUM' => 'Atum Administrator template',
+  'TPL_ATUM_POSITION_BOTTOM' => 'Bottom',
+  'TPL_ATUM_POSITION_CPANEL' => 'Cpanel',
+  'TPL_ATUM_POSITION_CUSTOMTOP' => 'Custom Top',
+  'TPL_ATUM_POSITION_DEBUG' => 'Debug',
+  'TPL_ATUM_POSITION_ICON' => 'Quick Icons',
+  'TPL_ATUM_POSITION_LOGIN' => 'Login',
+  'TPL_ATUM_POSITION_MENU' => 'Menu',
+  'TPL_ATUM_POSITION_SIDEBAR' => 'Sidebar',
+  'TPL_ATUM_POSITION_STATUS' => 'Status',
+  'TPL_ATUM_POSITION_TITLE' => 'Title',
+  'TPL_ATUM_POSITION_TOOLBAR' => 'Toolbar',
+  'TPL_ATUM_POSITION_TOP' => 'Top',
+  'TPL_ATUM_XML_DESCRIPTION' => 'Continuing the Egyptian god/goddess theme (Khepri from 1.5, Hathor from 1.6, Isis from 3.0), Atum is the name of the Joomla administrator template.',
+);

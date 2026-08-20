@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_USER_PROFILE' => 'User - Profile',
+  'PLG_USER_PROFILE_XML_DESCRIPTION' => 'User Profile Plugin',
+);

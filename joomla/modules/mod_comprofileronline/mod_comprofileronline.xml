@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<extension type="module" version="3.10" client="site" method="upgrade">
+	<name>Community Builder Online module</name>
+	<creationDate>2026-07-31</creationDate>
+	<author>CB Team</author>
+	<copyright>(C) 2004-2025 www.joomlapolis.com / Lightning MultiCom SA - and its licensors, all rights reserved2 License</copyright>
+	<license>http://www.gnu.org/licenses/old-licenses/gpl-2.0.html GNU/GPL version 2. All copyright statements must be kept and derivative work must prominently duly acknowledge original work on web interface and on website where downloaded.</license>
+	<authorEmail>cbteam@joomlapolis.com</authorEmail>
+	<authorUrl>https://www.joomlapolis.com/</authorUrl>
+	<version>2.11.0+build.2026.07.31.14.26.35.e46e38af0</version>
+	<description>Displays a list of users logged in with a link to their profile.</description>
+	<scriptfile>script.mod_comprofileronline.php</scriptfile>
+	<files>
+		<filename module="mod_comprofileronline">mod_comprofileronline.php</filename>
+		<filename>helper.php</filename>
+		<filename>index.html</filename>
+		<folder>fields</folder>
+		<folder>tmpl</folder>
+	</files>
+	<config>
+		<fields name="params" addfieldpath="/modules/mod_comprofileronline/fields">
+			<fieldset name="basic">
+				<field name="mode" type="list" default="1" label="Display Mode" description="Select the mode this module should display. Note User Count is a fast query approximation and may not reflect exact user numbers.">
+					<option value="1">Online Users</option>
+					<option value="9">Online Connections</option>
+					<option value="2">Latest Visitors</option>
+					<option value="3">Latest Registrations</option>
+					<option value="4">Latest Profile Updates</option>
+					<option value="5">Custom Latest</option>
+					<option value="8">Registered Users</option>
+					<option value="6">Online Statistics</option>
+					<option value="7">User Census</option>
+					<option value="10">User Count</option>
+					<option value="11">User List</option>
+				</field>
+				<field name="pretext" type="textarea" filter="raw" cols="20" rows="5" default="" label="Pre-text" description="Input substitution supported html to display at the top of the module." />
+				<field name="posttext" type="textarea" filter="raw" cols="20" rows="5" default="" label="Post-text" description="Input substitution supported html to display at the bottom of the module." />
+				<field name="usertext" type="textarea" filter="raw" cols="20" rows="5" default="" label="User-text" description="Input substitution supported html to display for each user in the module. If left blank formatname field will be used." showon="mode!:6,7,8,10,11" />
+				<field name="limit" type="text" size="5" default="30" label="Limit" description="Set the maximum number of latest entries to display. Leave empty for no limit." showon="mode!:6,7,8,10,11" />
+				<field name="exclude" type="text" size="20" default="" label="Exclude Users" description="Input a comma separated list of user ids to exclude from all modes." showon="mode!:10,11" />
+				<field name="exclude_self" type="radio" class="btn-group btn-group-yesno" default="0" label="Exclude Self" description="Choose if the viewing user should be excluded from display in all modes." showon="mode!:10,11">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="custom_field" type="cbfields" default="username" label="Field" description="Select the CB field to order the latests list by." showon="mode:5" />
+				<field name="custom_direction" type="list" default="ASC" label="Direction" description="Select the ordering direction." showon="mode:5">
+					<option value="ASC">Ascending</option>
+					<option value="DESC">Descending</option>
+				</field>
+				<field name="label" type="list" default="1" label="Label Display" description="Select how to display counter labels." showon="mode:6,7">
+					<option value="1">Text Only</option>
+					<option value="2">Icon Only</option>
+					<option value="3">Text and Icon</option>
+				</field>
+				<field name="separator" type="text" size="5" default="," label="Thousands Separator" description="Set what character to use for separating counters in the thousands. Default comma." showon="mode:6,7,8,10" />
+				<field name="maincbtpl" type="radio" default="1" class="btn-group btn-group-yesno" label="Load Template" description="Enable or disable loading of Community Builder template." showon="mode!:11">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="cb_plugins" type="radio" default="0" class="btn-group btn-group-yesno" label="CB Plugins integration" description="Choose if you want to use CB events for CB plugins integration. Plugins must be installed and configured in CB plugins management. Warning: this loads CB plugins on each page where this module is displayed, consuming memory and processing power." showon="mode!:11">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="userlist_listid" type="sql" query="SELECT `listid` AS value, `title` AS text FROM `#__comprofiler_lists` ORDER BY `ordering` ASC" key_field="value" value_field="text" label="Userlist" description="Select the userlist to display. Note depending on module position this may or may not display nicely." showon="mode:11" />
+				<field name="userlist_mode" type="list" default="ASC" label="List Display Mode" description="Select how to display this userlist. For example display only the search inputs." showon="mode:11">
+					<option value="0">Users and Collapsed Search</option>
+					<option value="2">Users and Expanded Search</option>
+					<option value="1">Search Only</option>
+					<option value="3">Users Only</option>
+				</field>
+				<field name="userlist_hide" type="radio" default="1" class="btn-group btn-group-yesno" label="Auto Hide List" description="Choose if the module should hide if viewing the userlist this module displays. This avoids double rendering issues. Note this only works with menu items and URLs that explicitly supply the listid." showon="mode:11">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+				<field name="userlist_header" type="radio" default="1" class="btn-group btn-group-yesno" label="Hide List Title" description="Choose if the module should display the userlist title. This includes the user count and description." showon="mode:11">
+					<option value="1">Yes</option>
+					<option value="0">No</option>
+				</field>
+			</fieldset>
+			<fieldset name="advanced" label="Advanced Options">
+				<field name="layout" type="modulelayout" default="_:default" label="JFIELD_ALT_LAYOUT_LABEL" description="JFIELD_ALT_MODULE_LAYOUT_DESC" />
+				<field name="moduleclass_sfx" type="text" label="COM_MODULES_FIELD_MODULECLASS_SFX_LABEL" description="COM_MODULES_FIELD_MODULECLASS_SFX_DESC" />
+				<field name="cache" type="list" label="COM_MODULES_FIELD_CACHING_LABEL" description="COM_MODULES_FIELD_CACHING_DESC" default="0" filter="integer" >
+					<option value="1">JGLOBAL_USE_GLOBAL</option>
+					<option value="0">COM_MODULES_FIELD_VALUE_NOCACHING</option>
+				</field>
+				<field name="cache_time" type="number" label="COM_MODULES_FIELD_CACHE_TIME_LABEL" description="COM_MODULES_FIELD_CACHE_TIME_DESC" default="0" filter="integer" />
+			</fieldset>
+		</fields>
+	</config>
+	<!-- Now done through package:
+	<updateservers>
+		<server type="extension" priority="1" name="Community Builder Online Module Update Site">https://update.joomlapolis.net/versions/mod_comprofileronline-update.xml</server>
+	</updateservers>
+	-->
+</extension>

@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_CONTENT_FINDER' => 'Content - Smart Search',
+  'PLG_CONTENT_FINDER_XML_DESCRIPTION' => 'Changes to content will not update the Smart Search index if you do not enable this plugin.',
+);

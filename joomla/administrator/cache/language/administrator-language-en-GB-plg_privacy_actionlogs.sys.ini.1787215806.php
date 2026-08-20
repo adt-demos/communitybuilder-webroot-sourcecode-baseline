@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_PRIVACY_ACTIONLOGS' => 'Privacy - Action Logs',
+  'PLG_PRIVACY_ACTIONLOGS_XML_DESCRIPTION' => 'Responsible for exporting the action log data for a user\'s privacy request.',
+);

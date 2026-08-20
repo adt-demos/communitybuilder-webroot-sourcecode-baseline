@@ -1,0 +1,34 @@
+.cbFeed .cbTooltip.cbFeedItem {
+	cursor: pointer;
+}
+
+.cbFeed .cbFeedItem:has(+ .cbFeedShowMore) {
+	border-bottom-left-radius: inherit;
+	border-bottom-right-radius: inherit;
+}
+
+.cbFeed .cbFeedItem .cbFeedItemLogoImgEmpty {
+	background-image: url(feed.png);
+}
+
+.cbFeed .cbFeedItem .cbFeedItemLogoImg {
+	height: 100%;
+	width: 150px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+
+.cbFeed .cbFeedItemCurrent,
+.cbFeed .cbFeedItemLatest {
+	max-width: 150px;
+}
+
+.cbFeedHideModal img {
+	max-height: 300px;
+	width: auto;
+}
+
+.cbFeedHideModal .qtip-content > p:first-child:has(> img) {
+	text-align: center;
+}

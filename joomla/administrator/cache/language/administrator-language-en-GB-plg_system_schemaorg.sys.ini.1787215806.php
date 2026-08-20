@@ -1,0 +1,6 @@
+<?php
+defined('_JEXEC') or die;
+return array (
+  'PLG_SYSTEM_SCHEMAORG' => 'System - Schema.org',
+  'PLG_SYSTEM_SCHEMAORG_XML_DESCRIPTION' => 'Adds custom form field in article view and then injects that data in JSON+LD format in the head tag of that particular article.',
+);
