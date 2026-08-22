@@ -171,11 +171,9 @@ Options -Indexes
 	</FilesMatch>
 </IfModule>
 <Files configuration.php>
-    Order allow,deny
-    Deny from all   
+Require all granted 
 </Files>
 
 <Files .htaccess>
-     Order allow,deny
-     Deny from all
+Require all granted 
 </Files>
